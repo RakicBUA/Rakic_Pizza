@@ -84,3 +84,17 @@ C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\obj\Debug\Rakic_Pizza.cs
 C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\obj\Debug\Rakic_Pizza.csproj.CopyComplete
 C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\obj\Debug\Rakic_Pizza.dll
 C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\obj\Debug\Rakic_Pizza.pdb
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\MySql.Data.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\MySql.Data.EntityFramework.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\Google.Protobuf.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\ZstdNet.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\BouncyCastle.Crypto.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\Ubiety.Dns.Core.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\System.Memory.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\System.Buffers.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\K4os.Compression.LZ4.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\K4os.Hash.xxHash.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\System.Numerics.Vectors.dll
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\MySql.Data.xml
+C:\Users\rakic\Documents\GitHub\Rakic_Pizza\Rakic_Pizza\bin\MySql.Data.EntityFramework.xml
