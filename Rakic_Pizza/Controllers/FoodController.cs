@@ -9,12 +9,12 @@ namespace Rakic_Pizza.Controllers
 {
     public class FoodController : Controller
     {
-        // GET: Essen
-        public ActionResult Index()
+        // GET: Essen/Random
+        public ActionResult Random()
         {
             var food = new Food() { Name = "Hawai Pizza" };
 
-            return View();
+            return View(food);
         }
     }
 }
